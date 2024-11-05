@@ -10,8 +10,10 @@ They come in black and blue. Possibly more colours.
 
 
 Main IC: CM6206 (Marking: CM6206-LX, 8675, R7G4S, UGG1AMFZ-GS, 1610)</br>
-Crystal: 12MHZ (Marking: JWT12.000)
+Crystal: 12MHZ (Marking: JWT12.000)</br>
 
-![Overview](Images/Full.png)</br>
-![Front](Images/Front_Closeup.png)</br>
-![Rear](Images/Rear_Closeup.png)</br>
+</br>
+![Overview](Images/overview.png)</br>
+![Top](Images/top.png)</br>
+![Bottom](Images/bottom.png)</br>
+![Chip](Images/chip.png)</br>
